@@ -1,4 +1,4 @@
-# Validação de CPF em JavaSript
+# Validação de CPF em JavaScript
 
 
 # Regras para validação

@@ -21,3 +21,10 @@ Abrir com Live Server ou o comando:
 index.html
 ```
 
+# Resultado
+
+CPF Válido:
+
+<span>
+    <img src="https://user-images.githubusercontent.com/85804895/140376413-d08aad0e-6b85-4026-a547-c859c1529d69.gif", width=900>
+</span>

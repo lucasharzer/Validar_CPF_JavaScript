@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Validação de CPF</title>
+    <link rel="stylesheet" href="index.css">
+    <script src="index.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Validação de CPF</h1>
+        <div id="lembrete">
+            Lembrando que para o CPF ser válido deve seguir as seguintes regras:<br/>
+            <a href="https://dicasdeprogramacao.com.br/algoritmo-para-validar-cpf/">https://dicasdeprogramacao.com.br/algoritmo-para-validar-cpf/</a>
+        </div>
+        <div>
+            <h4>
+                Certifique-se se o seu CPF é válido aqui abaixo ⬇<br/>
+            </h4>
+        </div>
+    </header>
+    <form>
+        <label for="cpf">CPF</label>
+        <input type="text" id="cpf">
+        <button type="button" onclick="ValidaCpf()">Validar</button>
+    </form>
+    <section>
+        <div id="resposta">
+
+        </div>
+    </section>
+    <footer>
+        <p>&copy;JavaScript</p>
+    </footer>
+</body>
+</html>

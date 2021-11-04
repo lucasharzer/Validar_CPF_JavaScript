@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(112, 58, 211);
+    font: normal 18pt italic;
+    color: white;
+    text-align: center;
+    margin: auto;
+}
+
+header {
+    text-align: center;
+    font: normal 23pt
+}
+
+div#lembrete {
+    font: normal 5pt
+}
+
+div#resposta {
+    font: normal 15pt Arial;
+    color: black;
+}
+
+section {
+    background-color: rgb(252, 248, 251);
+    width: 500px;
+    border-radius: 500px;
+    padding: 13px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.685);
+    margin-top: 30px;
+}
+
+footer {
+    font-style: italic;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
